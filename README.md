@@ -2,4 +2,10 @@
 My first image classifier that classifies bears.
 
 # What to do?
-Stay tuned. I will shortly be publishing the web app for this classifer and pushing the code of the actual model to GitHub.
+Check out the classifier here!
+[https://the-bear-classifier.herokuapp.com](https://the-bear-classifier.herokuapp.com)
+
+# Upcoming.
+I will shortly be uploading the actual code of the model.
+
+May also add more bears in the future.
